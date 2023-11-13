@@ -1,5 +1,5 @@
-SimpleGPT
-Introduction
+#SimpleGPT
+#Introduction
 
 SimpleGPT is an interactive Python application that integrates OpenAI's GPT models with text-to-speech and speech recognition capabilities. It provides a unique conversational experience with an AI that simulates emotions and responds with a human-like understanding. The script uses OpenAI's GPT-3.5-turbo model by default, with the option to switch to GPT-4.
 Features
