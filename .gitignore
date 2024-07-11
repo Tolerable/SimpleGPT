@@ -1,0 +1,5 @@
+# Ignore the .git directory
+.git/
+
+# Ignore revision files
+SIMPLEGPT-*.py
